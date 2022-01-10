@@ -1,0 +1,1 @@
+cmd_/home/sai25goud/Documents/ELDD_EXAM_210950330045_v.saikiran_goud/IOCTL/Module.symvers := sed 's/ko$$/o/' /home/sai25goud/Documents/ELDD_EXAM_210950330045_v.saikiran_goud/IOCTL/modules.order | scripts/mod/modpost -m -a   -o /home/sai25goud/Documents/ELDD_EXAM_210950330045_v.saikiran_goud/IOCTL/Module.symvers -e -i Module.symvers   -T -
